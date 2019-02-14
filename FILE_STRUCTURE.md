@@ -1,11 +1,3 @@
-# Changed components
-> Zoznam zmenenych komponentov so strucnym popisom zmien. Ku zmenam uvadzat cisla issues v Jira a pripadne cisla ticketov v zakaznickom systeme
-> Jazyk dokumentu: anglictina
-
-|Component|Version|Changelog|
-|---|---|---|
-|Komponent|Verzia|Pridana podpora pre json (DEV-123, IM 1212)|
-
 # Major changes
 > Zoznam hlavnych zmien
 
@@ -30,6 +22,17 @@
 
 ## PSC bez medzier
 Pri zadavani PSC nesmu byt pouzite medzery
+
+# Installation and upgrade
+> Informacia o sposobe instalacie a moznostiach upgrade
+
+# Changed components
+> Zoznam zmenenych komponentov so strucnym popisom zmien. Ku zmenam uvadzat cisla issues v Jira a pripadne cisla ticketov v zakaznickom systeme
+> Jazyk dokumentu: anglictina
+
+|Component|Version|Changelog|
+|---|---|---|
+|Komponent|Verzia|Pridana podpora pre json (DEV-123, IM 1212)|
 
 # Components
 > Zoznam vsetkych komponentov produktu v tabulke
