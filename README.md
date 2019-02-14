@@ -10,8 +10,12 @@ Release planning obsahuje plan releasov produktov a komponentov.
 > Repository manager **nasledne** zmerguje zmeny do master branchu.
 
 ## Konvencie
+
 ### Nazvy suborov
 Nazvy release suborov su vo formate `<Product>_<Version>.md`
 
 ### Struktura release suborov
 Struktura suborov je definovana v [FILE_STRUCTURE.md](FILE_STRUCTURE.md)
+
+### Jazyk
+Jazyk suborov je anglictina
