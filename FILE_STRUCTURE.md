@@ -33,6 +33,7 @@ Pri zadavani PSC nesmu byt pouzite medzery
 
 # Components
 > Zoznam vsetkych komponentov produktu v tabulke
+
 |Component|Version|
 |---|---|
 |app1|1.0.0.0|
