@@ -19,4 +19,4 @@ Nazvy release suborov su vo formate `<Product>_<Version>.md`
 Struktura suborov je definovana v [FILE_STRUCTURE.md](FILE_STRUCTURE.md)
 
 ### Jazyk
-Jazyk suborov je anglictina
+Jazyk RN je anglictina
