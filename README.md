@@ -1,6 +1,6 @@
-# Release planning
+# Release notes
 
-Release planning obsahuje plan releasov produktov a komponentov. 
+Release notes obsahuje release notes k nasim produktom. 
 
 ## Strucny navod
 
