@@ -1,3 +1,29 @@
+# Major changes
+
+## Slovak fiscalization
+Posybe is now compliant with new Slovak fiscalization law e-Kasa
+
+## Site pricing reworked
+Site pricing has been reworked to provide faster execution, better conflict and timing handling and logging.
+
+# Minor changes
+
+## Kalibrate interface
+Kalibrate can now be integrated to Posybe to support automated fuel price changes.
+
+# Bugfixes
+> Zoznam bugfixov s referenciou na jira a cislo ticketu v zakaznickom systeme
+
+# Known issues
+> Zoznam znamych issues
+
+# Installation and upgrade
+## Installation
+Standard installation procedure is reqiured
+
+## Upgrade
+Direct upgrade from Posybe 1.3.* is supported
+
 # Changed components
 |Component|Version|Changelog|
 |---|---|---|
