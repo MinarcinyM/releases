@@ -13,7 +13,7 @@ This is a maintenance update to Posybe 1.2.0.5 release.
 
 # Installation and upgrade
 ## Installation
-Standard installation procedure is reqiured
+Standard installation procedure is required
 
 ## Upgrade
 Direct upgrade from Posybe 1.2.* is supported
