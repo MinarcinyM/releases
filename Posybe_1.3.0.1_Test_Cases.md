@@ -9,7 +9,8 @@ CPHOSToolOrchestrator 1.0.3.1<br>
 PEM 1.0.22.1<br>
 DMS 1.2.6.5<br>
 PosybeOperationsManagerService 1.0.15.4<br>
-ERP2Posybe 1.0.28.0
+ERP2Posybe 1.0.28.0<br>
+SST 1.0.7.1
 
 # Test scenarios for changed components
 
@@ -98,4 +99,9 @@ ERP2Posybe 1.0.28.0
 ### Regresny test spracovania interface
 - Poslat na testovacie pracovisko vsetky aktualne pouzivane IF v produkcii (ArticleMaster, SiteArticleMaster, ProcurementDocument, atď.) pre vsetky typy tovarov. 
 - Skontrolovat, ci sa prijate IF spracovali bez chyby. 
-- Skontrolovat, ci sa zmeny aplikovali spravne na vsetkych urovniach az po pokladnu. 
+- Skontrolovat, ci sa zmeny aplikovali spravne na vsetkych urovniach az po pokladnu.
+
+## SST 1.0.7.1
+### Platba BK aj PK v dennom a nočnom režime
+- Na OPT vykonáme transakcie prostredníctvom BK / PK v dennom a v nočnom režime
+- Požadovaný stav je taký, že platby prostredníctvom BK /PK ako v dennom, tak aj v nočnom režime prebehnú v poriadku (bez tlače dokladu 2x, a bez zacyklenej komunikácie pri reštarte počas dokončenia platby)
